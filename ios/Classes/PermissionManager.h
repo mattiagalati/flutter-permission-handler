@@ -10,6 +10,7 @@
 #import <UIKit/UIKit.h>
 
 #import "LocationPermissionStrategy.h"
+#import "PermissionStrategy.h"
 #import "UnknownPermissionStrategy.h"
 #import "Enums.h"
 #import "Codec.h"
